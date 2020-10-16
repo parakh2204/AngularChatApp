@@ -24,6 +24,15 @@ app-navbar{
     width: 100%;
 }
 
+.cursor-pointer{
+    cursor:pointer;
+}
+
+.text-truncate {
+    text-overflow:ellipsis;
+    overflow:hidden;
+}
+
 app-chat-form{
     width: 100%;
     display: flex;
